@@ -7,6 +7,7 @@ I use 'exams.csv' as datas for this workshop
 My data contains 6 columns below:
 
 1."gender" - male / female
+
 2."race/ethnicity" - one of 5 combinations of race/ethnicity
 
 3."parent education level" - highest education level of either parent
